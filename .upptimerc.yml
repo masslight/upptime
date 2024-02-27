@@ -40,8 +40,6 @@ status-website:
   favicon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   themeUrl: https://masslight.github.io/upptime/zapehr-theme.css
   navbar:
-    - title: Status
-      href: /
     - title: Homepage
       href: https://zapehr.com
     - title: Documentation
