@@ -1,11 +1,11 @@
 :root {
-  --body-background-color: #202A3B; /* changed */
-  --body-text-color: #202A3B; /* changed */      
-  --card-background-color: #235679; /* changed */
-  --nav-background-color: #1e417c; /* changed */
-  --nav-border-bottom-color: #1e417c; /* changed */
-  --nav-current-border-bottom-color: #1e417c; /* changed */
-  --card-border-color: #235679; /* changed */
+  --body-background-color: #202A3B; 
+  --body-text-color: #202A3B;   
+  --card-background-color: #235679; 
+  --nav-background-color: #1e417c; 
+  --nav-border-bottom-color: #1e417c;
+  --nav-current-border-bottom-color: #1e417c;
+  --card-border-color: #235679;
   --down-border-left-color: #eb3b5a;
   --down-background-color: #ffd0d2;
   --degraded-border-left-color: #f7b731;
