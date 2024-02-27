@@ -26,7 +26,6 @@ status-website:
   name: Status
   cname: https://status.zapehr.com
   logoUrl: https://assets-global.website-files.com/62c3d85b8db421ea28b506ec/62c3db28aa439271ebc6663f_zapehr-logo-white.svg
-  css: "img { alt: 'zapehr logo' }"
   favicon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   themeUrl: https://masslight.github.io/upptime/zapehr-theme.css
   navbar:
