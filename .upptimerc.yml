@@ -23,3 +23,8 @@ status-website:
   logoUrl: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   favicon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   themeUrl: https://example.com/zapehr-theme.css
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
