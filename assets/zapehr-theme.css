@@ -1,16 +1,16 @@
 :root {
-  --body-background-color: #202A3B; 
-  --body-text-color: #202A3B;   
-  --card-background-color: #235679; 
-  --nav-background-color: #1e417c; 
-  --nav-border-bottom-color: #1e417c;
-  --nav-current-border-bottom-color: #1e417c;
+  --body-background-color: #202A3B;
+  --body-text-color: #FFFFFF;
+  --card-background-color: #235679;
+  --nav-background-color: #202A3B; 
+  --nav-border-bottom-color: #202A3B;
+  --nav-current-border-bottom-color: #202A3B;
   --card-border-color: #235679;
   --down-border-left-color: #eb3b5a;
-  --down-background-color: #ffd0d2;
+  --down-background-color: #235679;
   --degraded-border-left-color: #f7b731;
   --up-border-left-color: #20bf6b;
-  --tag-color: #ffffff;
+  --tag-color: white;
   --tag-up-background-color: #20bf6b;
   --tag-down-background-color: #eb3b5a;
   --tag-degraded-background-color: #f7b731;
