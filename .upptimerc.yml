@@ -33,3 +33,5 @@ status-website:
       href: https://zapehr.com
     - title: Documentation
       href: https://docs.zapehr.com
+  i18n:
+    footer: .
