@@ -6,6 +6,8 @@ sites:
     url: https://www.zapehr.com    
   - name: Documentation
     url: https://docs.zapehr.com
+  - name: API Reference
+    url: https://api-reference.zapehr.com/reference/get_application
   - name: Console
     url: https://console.zapehr.com
   - name: FHIR API
