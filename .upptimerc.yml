@@ -3,17 +3,20 @@ repo: upptime
 
 sites:
   - name: Homepage
-    url: https://www.zapehr.com
+    url: https://www.zapehr.com    
   - name: Documentation
     url: https://docs.zapehr.com
   - name: Console
     url: https://console.zapehr.com
   - name: FHIR API
     url: https://fhir-api.zapehr.com/version
+    logoUrl: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   - name: Platform API
     url: https://platform-api.zapehr.com/v1/version
+    logoUrl: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   - name: Project API
     url: https://project-api.zapehr.com/v1/version
+    logoUrl: https://zapehr-public-files.s3.amazonaws.com/favicon.png
     
 assignees:
   - GiladSchneider
