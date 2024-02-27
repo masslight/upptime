@@ -21,7 +21,6 @@ assignees:
 
 status-website:
   # cname: demo.upptime.js.org
-  themeUrl: https://example.com/zapehr-theme.css
   name: ZapEHR Status
   baseUrl: /upptime
   logoUrl: https://zapehr-public-files.s3.amazonaws.com/favicon.png
