@@ -2,16 +2,19 @@ owner: masslight
 repo: upptime 
 
 sites:
-  - name: ZapEHR
+  - name: Homepage
     url: https://www.zapehr.com
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Documentation
+    url: https://docs.zapehr.com
+  - name: Console
+    url: https://console.zapehr.com
+  - name: FHIR API
+    url: https://fhir-api.zapehr.com/version
+  - name: Platform API
+    url: https://platform-api.zapehr.com/v1/version
+  - name: Project API
+    url: https://project-api.zapehr.com/v1/version
+  
 
 assignees:
   - GiladSchneider
@@ -22,7 +25,6 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   favicon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
-  themeUrl: https://example.com/zapehr-theme.css
   navbar:
     - title: Status
       href: /
