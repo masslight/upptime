@@ -25,7 +25,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   favicon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
-  theme: ocean
+  theme: zapehr
   navbar:
     - title: Status
       href: /
