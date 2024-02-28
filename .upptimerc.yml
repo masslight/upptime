@@ -19,8 +19,11 @@ sites:
   - name: Project API
     url: https://project-api.zapehr.com/v1/version
     icon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: IPv6 test
+    url: forwardemail.net
+    port: 80
+    check: "tcp-ping"
+    ipv6: true
     
 assignees:
   - GiladSchneider
