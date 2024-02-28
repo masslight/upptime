@@ -21,6 +21,8 @@ sites:
     icon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
   - name: Gilad Schneider
     url: https://www.giladschneider.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
     
 assignees:
   - GiladSchneider
