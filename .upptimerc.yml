@@ -19,8 +19,6 @@ sites:
   - name: Project API
     url: https://project-api.zapehr.com/v1/version
     icon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
-  - name: Test Down Then UP
-    url: https://www.giladschneider.com
     
 assignees:
   - GiladSchneider
