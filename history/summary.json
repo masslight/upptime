@@ -40,19 +40,19 @@
     "url": "https://api-reference.zapehr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api-reference.zapehr.com.ico",
     "slug": "api-reference",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 1420,
-    "timeDay": 1494,
-    "timeWeek": 1420,
-    "timeMonth": 1420,
-    "timeYear": 1420,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 1384,
+    "timeDay": 1451,
+    "timeWeek": 1384,
+    "timeMonth": 1384,
+    "timeYear": 1384,
     "dailyMinutesDown": {
-      "2024-02-29": 6
+      "2024-02-29": 12
     }
   },
   {
