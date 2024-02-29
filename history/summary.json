@@ -130,17 +130,19 @@
     "url": "https://www.giladschneider.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.giladschneider.com.ico",
     "slug": "test-down-then-up",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "97.32%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   }
 ]
