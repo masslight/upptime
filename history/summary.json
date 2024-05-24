@@ -22,19 +22,19 @@
     "url": "https://docs.zapehr.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.zapehr.com.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 178,
-    "timeWeek": 395,
-    "timeMonth": 349,
-    "timeYear": 358,
+    "time": 357,
+    "timeDay": 180,
+    "timeWeek": 369,
+    "timeMonth": 343,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-05-24": 0
+      "2024-05-24": 4
     }
   },
   {
