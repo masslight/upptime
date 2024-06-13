@@ -3,34 +3,34 @@ repo: upptime
 
 sites:
   - name: Homepage
-    url: https://www.zapehr.com    
+    url: https://www.oystehr.com    
   - name: Documentation
-    url: https://docs.zapehr.com
+    url: https://docs.oystehr.com
   - name: API Reference
-    url: https://api-reference.zapehr.com
+    url: https://api-reference.oystehr.com
   - name: Console
-    url: https://console.zapehr.com
+    url: https://console.oystehr.com
   - name: FHIR API
     url: https://fhir-api.zapehr.com/version
-    icon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
+    icon: https://zapehr-public-files.s3.amazonaws.com/oystehr-favicon.png
   - name: Platform API
     url: https://platform-api.zapehr.com/v1/version
-    icon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
+    icon: https://zapehr-public-files.s3.amazonaws.com/oystehr-favicon.png
   - name: Project API
     url: https://project-api.zapehr.com/v1/version
-    icon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
+    icon: https://zapehr-public-files.s3.amazonaws.com/oystehr-favicon.png
     
 assignees:
   - GiladSchneider
 
 status-website:
   name: Status
-  cname: status.zapehr.com
-  logoUrl: https://assets-global.website-files.com/62c3d85b8db421ea28b506ec/62c3db28aa439271ebc6663f_zapehr-logo-white.svg
-  favicon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
-  themeUrl: https://status.zapehr.com/zapehr-theme.css
+  cname: status.oystehr.com
+  logoUrl: https://zapehr-public-files.s3.us-east-1.amazonaws.com/oystehr-icon-light.png
+  favicon: https://zapehr-public-files.s3.amazonaws.com/oystehr-favicon.png
+  themeUrl: https://status.oystehr.com/zapehr-theme.css
   navbar:
     - title: Homepage
-      href: https://zapehr.com
+      href: https://oystehr.com
     - title: Documentation
-      href: https://docs.zapehr.com
+      href: https://docs.oystehr.com
