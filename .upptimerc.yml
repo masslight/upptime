@@ -3,13 +3,13 @@ repo: upptime
 
 sites:
   - name: Homepage
-    url: https://www.zapehr.com    
+    url: https://www.oystehr.com    
   - name: Documentation
-    url: https://docs.zapehr.com
+    url: https://docs.oystehr.com
   - name: API Reference
     url: https://api-reference.zapehr.com
   - name: Console
-    url: https://console.zapehr.com
+    url: https://console.oystehr.com/
   - name: FHIR API
     url: https://fhir-api.zapehr.com/version
     icon: https://zapehr-public-files.s3.amazonaws.com/favicon.png
@@ -31,6 +31,6 @@ status-website:
   themeUrl: https://status.zapehr.com/zapehr-theme.css
   navbar:
     - title: Homepage
-      href: https://zapehr.com
+      href: https://oystehr.com
     - title: Documentation
-      href: https://docs.zapehr.com
+      href: https://docs.oystehr.com
