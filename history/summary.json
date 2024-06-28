@@ -45,9 +45,9 @@
     "url": "https://api-reference.zapehr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api-reference.zapehr.com.ico",
     "slug": "api-reference",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -57,6 +57,7 @@
     "timeMonth": 1238,
     "timeYear": 1252,
     "dailyMinutesDown": {
+      "2024-06-28": 0,
       "2024-06-13": 28,
       "2024-05-10": 19,
       "2024-03-26": 37
