@@ -26,7 +26,7 @@ assignees:
 status-website:
   name: Status
   cname: status.oystehr.com
-  logoUrl: https://zapehr-public-files.s3.amazonaws.com/oystehr-logo-white.svg
+  logoUrl: https://zapehr-public-files.s3.amazonaws.com/oystehr-logo-horizontal-transparent-1.png
   favicon: https://zapehr-public-files.s3.amazonaws.com/oystehr-favicon.png
   themeUrl: https://status.oystehr.com/zapehr-theme.css
   navbar:
