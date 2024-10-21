@@ -92,53 +92,59 @@
     "url": "https://fhir-api.zapehr.com/version",
     "icon": "https://zapehr-public-files.s3.amazonaws.com/oystehr-favicon.png",
     "slug": "fhir-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 161,
-    "timeWeek": 232,
-    "timeMonth": 235,
+    "timeDay": 185,
+    "timeWeek": 229,
+    "timeMonth": 234,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   },
   {
     "name": "Platform API",
     "url": "https://platform-api.zapehr.com/v1/version",
     "icon": "https://zapehr-public-files.s3.amazonaws.com/oystehr-favicon.png",
     "slug": "platform-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 204,
-    "timeWeek": 242,
-    "timeMonth": 259,
+    "timeDay": 215,
+    "timeWeek": 240,
+    "timeMonth": 257,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   },
   {
     "name": "Project API",
     "url": "https://project-api.zapehr.com/v1/version",
     "icon": "https://zapehr-public-files.s3.amazonaws.com/oystehr-favicon.png",
     "slug": "project-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 168,
-    "timeWeek": 212,
-    "timeMonth": 223,
+    "timeDay": 170,
+    "timeWeek": 207,
+    "timeMonth": 221,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   }
 ]
